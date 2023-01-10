@@ -1,0 +1,7 @@
+header {
+  background-color: var(--bg_color_1);
+  color: var(--font_color_1);
+  font-size: 3rem;
+  font-weight: bold;
+  padding: 2rem;
+}
