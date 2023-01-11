@@ -1,4 +1,5 @@
 import './Main.css';
+import background from '../../background.jpg';
 import { zodiacs } from '../../data.js';
 import Zodiac from '../Zodiac/Zodiac.js';
 

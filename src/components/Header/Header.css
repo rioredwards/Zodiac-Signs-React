@@ -4,4 +4,6 @@ header {
   font-size: 3rem;
   font-weight: bold;
   padding: 2rem;
+
+  box-shadow: var(--box_shadow_1);
 }
