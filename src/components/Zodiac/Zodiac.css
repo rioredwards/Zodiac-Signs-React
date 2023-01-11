@@ -1,0 +1,37 @@
+* {
+  /* border: 1px solid red; */
+}
+
+.zodiac {
+  width: 12rem;
+  height: 16rem;
+  margin: 1rem;
+  border-radius: 1rem;
+  padding: 1rem;
+
+  background-color: var(--bg_color_1);
+  color: var(--font_color_1);
+  cursor: pointer;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.zodiac img {
+  width: 8rem;
+}
+
+.zodiac h3 {
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.symbol,
+.dates {
+  margin-top: 0;
+  color: var(--font_color_2);
+}
